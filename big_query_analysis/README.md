@@ -1,4 +1,4 @@
-# Study case: BigQuery Analysis – eCommerce Insights
+# BigQuery Analysis – eCommerce Insights
 
 Official Documentation: This project follows the GA4 BigQuery Export Schema
 

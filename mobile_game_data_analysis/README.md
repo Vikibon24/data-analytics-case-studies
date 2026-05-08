@@ -1,4 +1,4 @@
-# Study case: Mobile Game Data Analysis – User Behavior & Outliers
+# Mobile Game Data Analysis – User Behavior & Outliers
 
 ## Tools Used
 - Google Sheets with statistical functions like AVERAGE, MEDIAN, QUARTILE, STDEV, COUNTIF, and IF

@@ -1,4 +1,4 @@
-# Study Case: Sales & Customer Analytics (SQL – PostgreSQL)
+# Sales & Customer Analytics (SQL – PostgreSQL)
 
 ## Tech Stack
 - PostgreSQL

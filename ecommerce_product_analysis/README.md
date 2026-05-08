@@ -1,4 +1,4 @@
-# Study Case: E-commerce Product Analysis – User Activity & Stickiness
+# E-commerce Product Analysis – User Activity & Stickiness
 
 ## Tools Used
 - Google Sheets with functions like FILTER, UNIQUE, SORT, VLOOKUP, XLOOKUP, and ARRAYFORMULA.
