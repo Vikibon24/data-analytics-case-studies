@@ -4,6 +4,7 @@
 - **Language**: Python
 - **Libraries**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
+- **Notebook**: Google Colab
 
 ## Project Objective
 The goal of this project was to analyze the performance of Facebook advertising campaigns using data visualization. I worked with advertising data from CSV files to identify spending trends, evaluate campaign profitability (ROMI), and understand the relationship between important marketing metrics.

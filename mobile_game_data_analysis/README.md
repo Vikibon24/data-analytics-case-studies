@@ -1,8 +1,9 @@
 # Mobile Game Data Analysis – User Behavior & Outliers
 
-## Tools Used
-- Google Sheets with statistical functions like AVERAGE, MEDIAN, QUARTILE, STDEV, COUNTIF, and IF
-- Visualization: histograms and boxplot (using a candlestick chart)
+## Tech Stack
+- **Tool**: Google Sheets
+- **Analysis Methods**: AVERAGE, MEDIAN, QUARTILE, STDEV, COUNTIF, and IF
+- **Visualization**: Histograms, Boxplots (candlestick chart)
 
 ## Project Overview
 In this project, I worked as a Data Analyst for a mobile game company. I analyzed data from 500 users to understand typical player behavior.

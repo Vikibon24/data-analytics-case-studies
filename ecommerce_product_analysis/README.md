@@ -1,8 +1,9 @@
 # E-commerce Product Analysis – User Activity & Stickiness
 
-## Tools Used
-- Google Sheets with functions like FILTER, UNIQUE, SORT, VLOOKUP, XLOOKUP, and ARRAYFORMULA.
-- Line charts to show trends in user activity.
+## Tech Stack
+- **Tool**: Google Sheets 
+- **Skills/Functions**: FILTER, UNIQUE, SORT, VLOOKUP, XLOOKUP, and ARRAYFORMULA
+- **Visualization**: Line charts
 
 ## Project Overview
 In this project, I worked as a Product Analyst for an e-commerce platform. I analyzed user purchase activity after a new feature was launched.

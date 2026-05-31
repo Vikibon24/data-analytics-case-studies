@@ -1,20 +1,46 @@
-# Retention Analysis with Cohort Analysis (SQL & Google Sheets)
+# Retention Analysis with Cohort Analysis 
+
+## Tech Stack
+- **Language**: SQL
+- **Database / SQL Tool**: PostgreSQL (via DBeaver)
+- **Visualization & Analysis Tool**: Google SheetsL 
 
 ## Project Overview
 This project analyzes user retention duration post-signup, comparing organic users (natural signups) and promo users (promotion-driven signups) to assess long-term loyalty.
 
-## Technical Workflow
-1. **Data Cleaning (SQL)**: Standardized date formats, removed extraneous spaces, test data, and null values for improved dataset accuracy.
-2. **Cohort Calculation**: Grouped users by signup month and computed month offsets between signup and activity dates.
-3. **Data Aggregation**: Segmented users into promo and organic groups, then tallied unique active users per cohort over time.
-4. **Visualization & Analysis (Google Sheets)**: Generated tables and heatmaps to illustrate retention trends and identify drop-off points.
+## Steps & Logic
+
+### 1.**Data Processing (SQL)**:
+- Cleaned inconsistent datetime formats (signup & event timestamps)
+- Removed NULLs, test events, and invalid records
+- Joined user and event tables using SQL JOIN
+- Built cohorts based on signup month
+- Calculated month offset (user lifecycle stage)
+
+### 2.**Cohort Analysis Logic**:
+- Grouped users by cohort month (signup period)
+- Tracked user activity across monthly offsets (0–5)
+- Segmented users into:
+- Organic users
+- Promo users
+- Calculated retention trends across time
+
+### 3.**Visualization (Google Sheets)**:
+- Built pivot-based cohort tables
+- Created retention rate table (% format)
+- Used slicer for promo vs organic segmentation
 
 ## Key Metrics
 - **Retention Rate**: Percentage of users remaining active over time.
-- **Acquisition Quality**: Evaluation of value from promo users (high volume) versus organic users (potential longer retention).
+- **Cohort Performance**: Behavior comparison across signup months.
+- **Acquisition Quality**: Promo vs organic user retention differences.
 
-## SQL Highlights
-Utilized Common Table Expressions (CTEs) for code clarity, unified date formats, and applied date functions to measure user activity in months.
+## SQL Concepts Used
+- Common Table Expressions (CTEs)
+- JOIN operations
+- Date parsing and transformation
+- Month difference calculation (DATEDIFF-style logic)
+- Aggregation (COUNT DISTINCT users)
 
 ## Project Materials
 - [Google Sheets Link](https://docs.google.com/spreadsheets/d/1ZPY4mYfiYrLPrzE-YWxfziLlDHrPI9SH-gzmBSIqpnM/edit?usp=sharing)

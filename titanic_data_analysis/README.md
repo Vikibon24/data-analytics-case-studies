@@ -1,9 +1,10 @@
 # Titanic Data Analysis: Exploratory Data Analysis
 
 ## Tech Stack
-- Language: Python
-- Libraries: Pandas, NumPy, Seaborn, Matplotlib
-- Environment: Google Colab / Jupyter Notebook
+- **Language**: Python
+- **Libraries**: Pandas, NumPy
+- **Visualization**: Seaborn, Matplotlib
+- **Notebook**: Google Colab 
 
 ## Project Objective
 The goal of this project was to explore and analyze the Titanic passenger dataset. I focused on cleaning the data, creating new features, and identifying the main factors that affected passenger survival.

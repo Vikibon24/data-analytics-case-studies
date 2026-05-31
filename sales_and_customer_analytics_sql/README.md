@@ -1,8 +1,9 @@
-# Sales & Customer Analytics (SQL – PostgreSQL)
+# Sales & Customer Analytics 
 
 ## Tech Stack
-- PostgreSQL
-- SQL functions: SUM, AVG, COUNT, CTEs, subqueries, and set operations (UNION ALL, INTERSECT)
+- **Language**: SQL
+- **Database / SQL Tool**: PostgreSQL (via DBeaver)
+- **SQL Techniques:**: SUM, AVG, COUNT, CTEs, subqueries, and set operations (UNION ALL, INTERSECT)
 
 ## Project Overview
 In this project, I worked as a Data Analyst for a retail company that sells products both online and in physical stores. The goal was to analyze customer behavior across both channels and connect online and offline data.
