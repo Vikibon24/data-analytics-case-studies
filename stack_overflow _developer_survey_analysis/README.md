@@ -47,3 +47,5 @@ The analysis focused on understanding developers’ experience, work habits, pro
 This project demonstrates practical data analysis skills using Pandas, including data filtering, grouping, aggregation, and working with real-world survey data to extract meaningful insights.
 This project helped me practice real data analysis using Pandas and understand how to work with large datasets and extract useful insights.
 
+## Project Materials
+Full Python script with detailed comments: [stack_overflow_developer_survey_analysis.ipynb](stack_overflow_developer_survey_analysis.ipynb)
