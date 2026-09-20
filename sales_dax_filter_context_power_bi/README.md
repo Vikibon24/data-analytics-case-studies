@@ -1,4 +1,9 @@
-# Sales Analytics — DAX Filter Context & Time Intelligence (Power BI)
+# Sales Analytics — Power BI
+
+## Tech Stack
+ - **Tool:** Power BI Desktop
+
+## Project Overview
 
 A Power BI project built on a retail sales dataset (~8 000 orders, 2020–2022) that focuses on **DAX measures**: how filter context works, how to override it, and how to compare periods.
 
@@ -15,13 +20,9 @@ The goal of the project was not to build a pretty dashboard, but to show control
 | `DimCalendar` | Date table | Full calendar 2020–2022 with year / quarter / month / week / fiscal attributes |
 | `_measures` | Measure table | Empty table used to store all DAX measures in one place |
 
-Key metric of the project: **Order Quantity** — the number of goods sold.
-
 ---
 
 ## Report pages
-
-### 1. `ДЗ` — filter context
 
 **Multi-row card — sold goods overview**
 
@@ -45,7 +46,7 @@ The page contains a year slicer and a table by `Sales Channel`, so the behaviour
 
 Moving the year slicer changes `ALLSELECTED` but leaves `ALL` untouched — which is exactly what the page is meant to demonstrate.
 
-### 2. `Time Series` — period comparison
+**Period comparison**
 
 A table with a year → quarter → month hierarchy and three measures next to the plain quantity:
 
@@ -139,14 +140,9 @@ Quantity-related measures are grouped into display folders so the field list sta
 ## Files
 
 ```
-├── Sales_DAX_Filter_Context.pbix   # report
-└── README.md
+- Sales_DAX_Filter_Context.pbix 
+- README.md
 ```
 
-Open the `.pbix` file in **Power BI Desktop** (free). The data is imported into the file, so no external source or credentials are needed.
+Open the `.pbix` file in **Power BI Desktop**. The data is imported into the file, so no external source or credentials are needed.
 
----
-
-## Tools
-
-Power BI Desktop · DAX · star-schema data modelling
