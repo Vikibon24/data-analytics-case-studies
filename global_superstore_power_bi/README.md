@@ -17,7 +17,7 @@ A report designed to help understand the organization’s current challenges and
 
 
 | Discount | Share of revenue | Profit after shipping | Net margin |
-|---|---|---|
+|---|---|---|---|
 | 0% | 55% | $1 023K | 15% |
 | 1-10% | 16% | $126K | 6% |
 | 11-20% | 14%| -$19K | -1% |
@@ -78,8 +78,7 @@ Total Profit $ = SUM(factOrders[Profit])
 
 Total Shipping Cost = SUM(factOrders[Shipping Cost])
 
--- profit after delivery cost: the metric the business actually runs on
-Total Profit with Ship Cost = [Total Profit $] - [Total Shipping Cost]
+Total Profit Ship Cost = [Total Profit $] - [Total Shipping Cost]
 
 Relative Profit % = DIVIDE([Total Profit $], [Total Revenue $])
 
