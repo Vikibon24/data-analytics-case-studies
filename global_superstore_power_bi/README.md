@@ -80,7 +80,7 @@ Total Shipping Cost = SUM(factOrders[Shipping Cost])
 
 Total Profit Ship Cost = [Total Profit $] - [Total Shipping Cost]
 
-Relative Profit % = DIVIDE([Total Profit $], [Total Revenue $])
+Relative Profit % = DIVIDE([Total Profit], [Total Revenue])
 
 Total Orders = DISTINCTCOUNT(factOrders[Order ID])
 
