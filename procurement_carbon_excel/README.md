@@ -1,5 +1,7 @@
 # Nordvita Procurement & Carbon — Spend and Supplier Analysis
 
+*The data is not real. It was created for practice. Emission factors are examples, not official values.*
+
 ## Tech Stack
 - **Tool:** Microsoft Excel (Microsoft 365)
 - **Functions:** XLOOKUP, IFERROR, TRIM, DATE + LEFT/MID/RIGHT, TEXT, IF/AND/OR, SUMIF, MINIFS
@@ -105,14 +107,12 @@ A what-if model with one input cell (share of recycled plastic). It shows extra 
 
 ---
 
+## Project Materials
+
+[Excel file (OneDrive)] (https://1drv.ms/x/c/7b4519628ea105a4/IQBZX3RLMnGoSIZ4wGf6HPcbAQWrxhWdytLynz63gwiZK1Q?e=XzYjUt)
+
 ## Files
 
-```
-- Nordvita_Procurement_2025.xlsx (https://1drv.ms/x/c/7b4519628ea105a4/IQBZX3RLMnGoSIZ4wGf6HPcbAQWrxhWdytLynz63gwiZK1Q?e=XzYjUt)
 - [Nordvita_Procurement_2025.xlsx](Nordvita_Procurement_2025.xlsx)
 - README.md
-- screenshots/
-    ├── dashboard.png
-```
-
-*The data is not real. It was created for practice. Emission factors are examples, not official values.*
+- [screenshots/dashboard.png](screenshots/dashboard.png)
