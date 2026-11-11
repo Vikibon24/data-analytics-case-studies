@@ -109,7 +109,7 @@ A what-if model with one input cell (share of recycled plastic). It shows extra 
 
 ## Project Materials
 
-[Excel file (OneDrive)] (https://1drv.ms/x/c/7b4519628ea105a4/IQBZX3RLMnGoSIZ4wGf6HPcbAQWrxhWdytLynz63gwiZK1Q?e=XzYjUt)
+[Excel file (OneDrive)](https://1drv.ms/x/c/7b4519628ea105a4/IQBZX3RLMnGoSIZ4wGf6HPcbAQWrxhWdytLynz63gwiZK1Q?e=XzYjUt)
 
 ## Files
 
