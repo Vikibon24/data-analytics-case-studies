@@ -117,7 +117,7 @@ DAX measures for revenue, gross profit, margin, return rate, ROAS and gross prof
 ```
 - GiftNest_Sales_Q4_2025.xlsx
 - GiftNest.pbix
-- GiftNest_dashboard.pdf
+- GiftNest.pdf
 - README.md
 - screenshots/
     ├── overview.png
