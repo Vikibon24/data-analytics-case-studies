@@ -114,13 +114,10 @@ DAX measures for revenue, gross profit, margin, return rate, ROAS and gross prof
 
 ## Files
 
-```
-- GiftNest_Sales_Q4_2025.xlsx
-- GiftNest.pbix
-- GiftNest.pdf
-- README.md
-- screenshots/
-    ├── overview.png
+- [GiftNest_Sales_Q4_2025.xlsx](GiftNest_Sales_Q4_2025.xlsx) — Excel: cleaning and analysis
+- [GiftNest.pbix](GiftNest.pbix) — Power BI report
+- [GiftNest.pdf](GiftNest.pdf) — dashboard, all pages
+- [screenshots/overview.png](screenshots/overview.png)
 ```
 
 *The data is not real. It was created for practice.*
